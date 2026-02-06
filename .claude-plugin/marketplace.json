@@ -1,0 +1,17 @@
+{
+  "name": "esteban-skills",
+  "owner": {
+    "name": "Esteban VG"
+  },
+  "metadata": {
+    "description": "Claude Code skills for React Native development",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "creating-reanimated-animations",
+      "source": "./creating-reanimated-animations",
+      "description": "React Native Reanimated animation code generator"
+    }
+  ]
+}
