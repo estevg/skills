@@ -4,13 +4,21 @@
     "name": "Esteban VG"
   },
   "metadata": {
-    "description": "Claude Code skills for React Native development"
+    "description": "Claude Code skills for React Native development",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "creating-reanimated-animations",
       "source": "./plugins/creating-reanimated-animations",
-      "description": "React Native Reanimated animation code generator"
+      "description": "React Native Reanimated animation code generator",
+      "version": "1.0.0",
+      "author": { "name": "Esteban VG" },
+      "license": "MIT",
+      "keywords": ["react-native", "reanimated", "animations"],
+      "category": "development",
+      "homepage": "https://github.com/estevg/skills",
+      "repository": "https://github.com/estevg/skills"
     }
   ]
 }
